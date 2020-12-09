@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Number Shapes</string>
+    <string name="number_shapes">Number Shapes</string>
+    <string name="textview">TextView</string>
+</resources>
